@@ -8,7 +8,11 @@ public class Teste {
 		for (int i = 0; i < cont; i++) {
 			System.out.println(i);
 		}
-
+		String str="teste";
+		for (int i = 0; i < str.length(); i++) {
+			System.out.println(str.substring(0,i));
+			
+		}
 	}
 
 }
