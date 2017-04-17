@@ -6,6 +6,7 @@ public class Teste {
 		int cont;
 		cont = 10;
 		//comentario teste
+		//outro comentario amsaçmsa
 		for (int i = 0; i < cont; i++) {
 			System.out.println(i);
 		}
